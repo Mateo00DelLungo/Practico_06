@@ -16,3 +16,17 @@ NOTAS:
 -----------------
 Puede utilizar Bootstrap o cualquier plantilla HTML basada en este framework para diseñar y maquetar el sitio
 Solo se pide archivos HTML sin funcionalidad, maqueta del sitio con estilos y accesos.
+
+
+
+## Estadísticas
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Mateo00DelLungo/Practico_06)
+[![wakatime](https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e/project/7bb9ca4f-1ead-4369-bac2-07cfa1a582b9.svg)](https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e/project/7bb9ca4f-1ead-4369-bac2-07cfa1a582b9)
+![GitHub top language](https://img.shields.io/github/languages/top/Mateo00DelLungo/Practico_06)
+
+
+
+## Autor
+
+- [@Mateo del lungo](https://github.com/Mudo0)🤓
